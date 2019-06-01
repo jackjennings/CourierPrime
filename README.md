@@ -1,6 +1,8 @@
-# Courier Prime
+# Diplomacy Mono
 
-Courier Prime is a monospaced font designed specifically for screenplays. It was designed by Alan Dague-Greene for John August and released by Quote-Unquote Apps under the SIL Open Font License (OFL).
+Diplomacy Mono is a monospaced font designed specifically for the game Diplomacy, based on Courier Prime.
+
+Courier Prime was designed by Alan Dague-Greene for John August and released by Quote-Unquote Apps under the SIL Open Font License (OFL).
 
 Visit [the official site](http://quoteunquoteapps.com/courierprime/) for more information and the latest updates.
 
